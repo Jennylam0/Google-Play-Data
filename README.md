@@ -1,8 +1,10 @@
 # Google-Play-Data
 **Goal**
+
 Define a measure of success by the number of user downloads/installs for the app. The goal is to identify the characteristics that make an app successful.
 
 **Datasets**
+
 googleplaystore.csv contain all the details of the applications on Google Play:
 • App Application name
 • Category Category the app belongs to ss
