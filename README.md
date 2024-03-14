@@ -6,7 +6,7 @@ Define a measure of success by the number of user downloads/installs for the app
 **Datasets**
 
 googleplaystore.csv contain all the details of the applications on Google Play:
-• App Application name
+• App Application name/
 • Category Category the app belongs to ss
 • Rating Overall user rating of the app (as when scraped)
 • Reviews Number of user reviews for the app (as when scraped)
