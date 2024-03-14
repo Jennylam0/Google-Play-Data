@@ -18,7 +18,7 @@ googleplaystore.csv contain all the details of the applications on Google Play:
 • Current Ver Current version of the app available on Play Store (as when scraped)  
 • Android Ver Min required Android version (as when scraped)  
 
-googleplaystore_user_reviews.csv contains the first most relevant 100 reviews for each app. Each review text/comment has been pre-processed and attributed with 3 new features - Sentiment, Sentiment Polarity and Sentiment Subjectivity:
+googleplaystore_user_reviews.csv contains the first most relevant 100 reviews for each app. Each review text/comment has been pre-processed and attributed with 3 new features - Sentiment, Sentiment Polarity and Sentiment Subjectivity:  
 • App Name of app  
 • Translated_Review User review (Preprocessed and translated to English)  
 • Sentiment Positive/Negative/Neutral (Preprocessed)  
